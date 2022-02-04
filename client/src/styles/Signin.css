@@ -1,0 +1,30 @@
+.Box{
+    text-align: center;
+    border:solid gray;
+    top:20%;
+    left:35%;
+    position:absolute;
+    background-color: rgb(42,42,42);
+    width:30%;
+    text-align: center;
+}
+
+.Form{
+    left:20%;
+    text-align: left;
+    position:relative;
+    
+}
+
+.Form>*{
+    margin:20px;
+}
+.Box>*{
+    margin:10px;
+}
+
+input{
+    color:black;
+}
+
+

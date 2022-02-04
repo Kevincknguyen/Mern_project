@@ -1,0 +1,11 @@
+
+
+
+.body{
+    height:100vh;
+}
+
+.box{
+   display:flex;
+   height:92vh;
+}
